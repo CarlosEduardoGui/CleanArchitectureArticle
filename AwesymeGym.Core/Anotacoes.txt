@@ -1,0 +1,4 @@
+﻿ - A Camada Core estará responsavel de receber todo o coreção do projeto;
+ - Entidades: responsáveis por receber as nossas modelos;
+ - Servicos: responsáveis por realizar a tarefa de regra de negócio mais complexas;
+ - Interfaces: garantir que será implementado os métodos;
