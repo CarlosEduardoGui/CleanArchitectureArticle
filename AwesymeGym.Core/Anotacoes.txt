@@ -2,3 +2,4 @@
  - Entidades: responsáveis por receber as nossas modelos;
  - Servicos: responsáveis por realizar a tarefa de regra de negócio mais complexas;
  - Interfaces: garantir que será implementado os métodos;
+ - DTOs: são somentes classes anêmicas e que podem ser utilizados por servicos ou interfaces
