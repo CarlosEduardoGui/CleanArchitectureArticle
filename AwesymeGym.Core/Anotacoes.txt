@@ -1,5 +1,11 @@
 ﻿ - A Camada Core estará responsavel de receber todo o coreção do projeto;
- - Entidades: responsáveis por receber as nossas modelos;
- - Servicos: responsáveis por realizar a tarefa de regra de negócio mais complexas;
- - Interfaces: garantir que será implementado os métodos;
- - DTOs: são somentes classes anêmicas e que podem ser utilizados por servicos ou interfaces
+	 * Entidades: responsáveis por receber as nossas modelos;
+	 * Servicos: responsáveis por realizar a tarefa de regra de negócio mais complexas;
+	 * Interfaces: garantir que será implementado os métodos;
+	 * DTOs: são somentes classes anêmicas e que podem ser utilizados por servicos ou interfaces
+
+ - A Cama de Infraestructure fica responsável por componentes de persistência, integração, computação em nuvem
+  * São classes que tem a responsabilidade relacionadas a integração com recursos de infraestrutura externa;
+
+
+ https://www.luisdev.com.br/2020/12/23/clean-architecture-com-asp-net-core-parte-3/
